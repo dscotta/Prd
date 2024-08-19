@@ -1,9 +1,7 @@
-{
-  "Elements": {
-  "title": "Inception",
-  "year": 2010,
-  "director": "Christopher Nolan",
-  "genre": "Science Fiction",
-  "rating": 8.8
-  }
-}
+[
+  { "name": "Title", "value": "Inception" },
+  { "name": "Year", "value": "2010" },
+  { "name": "Director", "value": "Christopher Nolan" },
+  { "name": "Genre", "value": "Science Fiction" },
+  { "name": "Rating", "value": "8.8" }
+]
