@@ -1,5 +1,7 @@
-[
-  { "name": "X Label", "value": "x value", "selected": true },
-  { "name": "Y Label", "value": "y value" },
-  { "name": "A Label", "value": "a value", "selected": true }
-]
+{
+   "name": "Title", "value": "Inception",
+   "name": "Year", "value": "2010",
+   "name": "Director", "value": "Christopher Nolan",
+   "name": "Genre", "value": "Science Fiction",
+   "name": "Rating", "value": "8.8" 
+  }
