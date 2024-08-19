@@ -1,5 +1,8 @@
-[
-  { "name": "X Label", "value": "x value", "selected": true },
-  { "name": "Y Label", "value": "y value" },
-  { "name": "A Label", "value": "a value", "selected": true }
-]
+    {
+      "key1":"value1",
+      "key2":
+        {
+          "sub-key3":"value3",
+          "sub-key4":"value4"
+        }
+    }
