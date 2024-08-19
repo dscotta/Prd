@@ -1,31 +1,5 @@
 [
-  {
-    "id": 1,
-    "name": "Leanne Graham",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    }
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    }
-  }
+  { "name": "X Label", "value": "x value", "selected": true },
+  { "name": "Y Label", "value": "y value" },
+  { "name": "A Label", "value": "a value", "selected": true }
 ]
-
